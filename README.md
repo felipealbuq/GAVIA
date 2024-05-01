@@ -26,4 +26,4 @@ To learn more about Stable Diffusion and A-frame, take a look at the following r
 
 ## Deploy on GitHub Pages
 
-Check out my [GAVIA](https://felipealbuq.github.io/A-Frame-mini-game/)
+Check out my [GAVIA](https://felipealbuq.github.io/GAVIA/)
