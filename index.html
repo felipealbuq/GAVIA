@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>GAVIA</title>
+  <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+  <script src="https://unpkg.com/aframe-cubemap-component@3.0.0/index.js"></script>
+</head>
+
+<body>
+  <a-scene>
+
+    <a-assets>
+      <a-cubemap id="box">
+        <img src="assets/nx.jpeg">
+        <img src="assets/px.jpeg">
+        <img src="assets/py.jpeg">
+        <img src="assets/ny.jpeg">
+        <img src="assets/nz.jpeg">
+        <img src="assets/pz.jpeg">
+      </a-cubemap>
+    </a-assets>
+
+    <a-entity position="0 2 0" cubemap="folder: #box;" scale="10 10 10">
+
+  </a-scene>
+</body>
+
+</html>
