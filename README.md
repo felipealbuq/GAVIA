@@ -13,6 +13,11 @@ https://github.com/felipealbuq/GAVIA.git
 
 Open the file index.html and you need some live preview server, then open the browser and see the result.
 
+## Generation Flow
+Below, you can see the generation flow of images that forms the final image seen previously.
+
+![Imagem](assets/gaviaFlow.jpg)
+
 ## Learn More
 
 To learn more about Stable Diffusion and A-frame, take a look at the following resources:
