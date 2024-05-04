@@ -14,7 +14,7 @@ https://github.com/felipealbuq/GAVIA.git
 Open the file index.html and you need some live preview server, then open the browser and see the result.
 
 ## Generation Flow
-Below, you can see the generation flow of images that forms the final image seen previously.
+Below, you can see the generation flow of images that forms the final image seen previously using Stable Diffusion and Inpaiting.
 
 ![Imagem](assets/gaviaFlow.jpg)
 
@@ -22,7 +22,9 @@ Below, you can see the generation flow of images that forms the final image seen
 
 To learn more about Stable Diffusion and A-frame, take a look at the following resources:
 
-- [Stable Diffusion Documentation](https://huggingface.co/runwayml/stable-diffusion-v1-5) - learn about Diffusers and Stable Diffusion.
+- [Stable Diffusion Documentation](https://huggingface.co/docs/diffusers/en/using-diffusers/conditional_image_generation) - learn about Diffusers and Stable Diffusion.
+
+- [Inpainting Documentation](https://huggingface.co/docs/diffusers/en/using-diffusers/inpaint) - learn about Diffusers and Inpaiting.
 
 - [A-Frame Documentation](https://aframe.io/docs/1.5.0/introduction/) - learn about A-Frame features and API.
 
